@@ -1,0 +1,278 @@
+{
+ "authors": [
+  {
+   "organisation": "German Equipment Transportation",
+   "name": "Darius Hollen"
+  },
+  {
+   "organisation": "German Equipment Transportation",
+   "name": "Mafalda Luke"
+  },
+  {
+   "organisation": "German Equipment Transportation",
+   "name": "Salvador Hambright"
+  }
+ ],
+ "abstract": "Lacinia risus nisl mus ut urna sociosqu sollicitudin nostra aptent ridiculus interdum quam semper volutpat. Natoque proin et mus cras cursus at mollis morbi ve. Cubilia porta elit dui mauris integer pede cum etiam donec sem curae penatibus sed. Rhoncus massa porta dictum hymenaeos. Posuere fames vestibulum commodo nunc augue justo. Potenti curae netus leo eget pharetra sociis tortor molestie ullamcorper leo ac nisl suscipit metus donec. Egestas felis et tortor ad congue aliquet cras per class curabitur elit aliquet. Laoreet vitae parturient cubilia nisi quisque ad ac vitae ut nunc posuere. Feugiat fusce nibh volutpat at proin porta potenti in nec condimentum conubia scelerisque odio hendrerit molestie. Pretium felis cras aliquet id fringilla adipiscing commodo nunc sem natoque sapien nisi. Dapibus morbi ad nisl felis tincidunt convallis pellentesque eni netus mollis lorem parturient maecenas eget est. Lacinia massa mi consequat lorem venenatis ultricies quam turpis. Nonummy etiam velit vulputate dui velit magna sagittis purus. Pretium curae adipiscing eget porta lectus etiam platea dapibus. Vivamus fames quis sagittis parturient consequat condimentum. Natoque metus vestibulum facilisi iaculis urna arcu tempus torquent. Laoreet purus justo euismod id placerat libero quam cursus in dictum ultricies laoreet massa. Rhoncus felis et tempus a sodales. Posuere porta risus viverra mi justo morbi pulvinar odio lobortis. Aliquam fames netus fusce felis tellus auctor ipsum scelerisque eu. Lacinia massa quam sed arcu ve magnis porta integer. Lacinia purus vestibulum suspendisse mauris in velit dignissim ante sollicitudin libero litora urna neque fringilla.",
+ "references": [
+  {
+   "title": "On the topology of complex algebraic maps",
+   "key": "GMP81",
+   "author": "Mark Goresky and Robert MacPherson",
+   "number": 961,
+   "year": 1981,
+   "booktitle": "Algebraic Geometry Proceedings, La R\\'abida, Lecture Notes in Mathematics",
+   "type": "inproceedings"
+  },
+  {
+   "title": "Mac{P}herson's graph construction",
+   "key": "Kwi97",
+   "author": "Micha{\\l} Kwieci\\'nski",
+   "volume": 193,
+   "year": 1987,
+   "booktitle": "Algebraic Geometry, Lecture Notes in Pure and Applied Mathematics",
+   "type": "inproceedings",
+   "editor": "Sinan Sert{\"o}z"
+  },
+  {
+   "title": "Combinatorical invariants of analytic spaces",
+   "key": "Sul81",
+   "author": "D. Sullivan",
+   "number": 192,
+   "year": 1981,
+   "booktitle": "Proceedings of Liverpool Singularities, Lecture Notes in Mathematics",
+   "type": "inproceedings"
+  },
+  {
+   "title": "Chern classes for singular hypersurfaces",
+   "key": "Alu96",
+   "author": "Paolo Aluffi",
+   "year": 1996,
+   "note": "preprint",
+   "type": "unpublished",
+   "month": "February"
+  },
+  {
+   "title": "Chern numbers for singular varieties and elliptic homology",
+   "key": "Tot97",
+   "author": "Burt Totaro",
+   "year": "1997?",
+   "note": "preprint?",
+   "type": "unpublished"
+  },
+  {
+   "title": "A blow-up construction and graph coloring",
+   "key": "Alu96x",
+   "author": "Paolo Aluffi",
+   "year": "1996?",
+   "note": "preprint?",
+   "type": "unpublished"
+  },
+  {
+   "title": "Localisation de syst\\`emes diff\\'erentiels, stratifications de {W}hitney et condition de {T}hom",
+   "key": "BMM94",
+   "author": "Jo{\"e}l Biran{\\c c}on and Philippe Maisonobe and Michel Merle",
+   "volume": 117,
+   "pages": "531--550",
+   "year": 1994,
+   "journal": "Invent. Math.",
+   "type": "article"
+  },
+  {
+   "title": "Specialization of {M}ac{P}herson's {C}hern classes",
+   "key": "Ken90x",
+   "author": "Gary Kennedy",
+   "volume": 66,
+   "pages": "12--16",
+   "year": 1990,
+   "journal": "Math. Scand.",
+   "type": "article"
+  },
+  {
+   "title": "Singularities at infinity and their vanishing cycles",
+   "key": "ST95",
+   "author": "Dirk Siersma and Mihai Ti{\\u b}ar",
+   "volume": 80,
+   "pages": "771--783",
+   "year": 1995,
+   "journal": "Duke Math. J.",
+   "type": "article"
+  },
+  {
+   "title": "Classes de {C}hern des vari\\'et\\'es toriques singuli\\`eres",
+   "key": "BBF92",
+   "author": "Gottfried Barthel and Jean-Paul Brasselet and Karl--Heinz Fieseler",
+   "volume": 315,
+   "pages": "187--192",
+   "year": 1992,
+   "journal": "C. R. Acad. Sci. Paris",
+   "type": "article"
+  },
+  {
+   "title": "Classes caract\\'eristiques des vari\\'et\\'es singuli\\`eres",
+   "key": "Dub78",
+   "author": "Alberto S. Dubson",
+   "volume": 287,
+   "pages": "237--240",
+   "year": 1978,
+   "journal": "C. R. Acad. Sci. Paris",
+   "type": "article"
+  },
+  {
+   "title": "L'obstruction locale d'{E}uler et le th\\'eor\\`eme de {M}ac{P}herson",
+   "key": "GS",
+   "author": "Gerardo Gonzalez--Sprinberg",
+   "volume": "82--83",
+   "pages": "7--32",
+   "year": 1981,
+   "journal": "Ast\\'erisque",
+   "type": "article"
+  },
+  {
+   "title": "Stiefel--{W}hitney homology classes",
+   "key": "HT72",
+   "author": "Stephen Halperin and Domingo Toledo",
+   "volume": 96,
+   "pages": "511--525",
+   "year": 1972,
+   "journal": "Ann. of Math.",
+   "type": "article"
+  },
+  {
+   "title": "Coubures au voisinage d'une singularit\\'e alg\\'ebrique isol\\'ee",
+   "key": "Lan79",
+   "author": "R\\'emi Langevin",
+   "volume": "82-83",
+   "pages": "33--43",
+   "year": "1978--1979",
+   "journal": "Ast\\'erisque",
+   "type": "article"
+  },
+  {
+   "title": "Sur les multiplicit\\'es de {S}chubert locales des faisceaux alg\\'ebriques coh\\'erents",
+   "key": "Azn83",
+   "author": "V. Navarro Aznar",
+   "volume": 48,
+   "pages": "311--326",
+   "year": 1983,
+   "journal": "Comp. Math.",
+   "type": "article"
+  },
+  {
+   "title": "Limites d'espaces tangents et obstruction d'{E}uler des surfaces",
+   "key": "Tra79",
+   "author": "L\\^e D{\\~u}ng Trang",
+   "volume": "82--83",
+   "pages": "45--69",
+   "year": "1978--1979",
+   "journal": "Ast\\'erisque",
+   "type": "article"
+  }
+ ],
+ "sections": [
+  {
+   "title": "Blandit magna.",
+   "paragraphs": [
+    "Aliquet metus in a tempus dolor vel. Blandit vitae enim. Lacinia augue. Gravida metus aliquam taciti elementum netus. Blandit netus et arcu dolor eni erat adipiscing sit dolor fermentum ve nisi. Rhoncus etiam ut in tortor. Natoque dolor porta scelerisque vel mollis montes nibh pellentesque parturient. Natoque donec duis sem ve ante lobortis pharetra felis sapien velit vel. Rhoncus lacus. Natoque risus est ante amet. Nonummy class ac amet varius ve risus cum. Rhoncus magna class sociis montes massa. Rhoncus purus amet non dictum vivamus natoque primis vel enim cursus. Iaculis ipsum cum sapien proin convallis. Nonummy lorem non posuere suscipit semper. Laoreet morbi. Commodo donec nam commodo etiam dapibus lectus dolor. Pretium etiam class feugiat platea eget libero nam in potenti amet eu. Feugiat ipsum nam nisi dapibus taciti in faucibus nibh conubia. Laoreet vitae mi risus at nostra volutpat quisque pretium. Laoreet lorem risus posuere mattis per at consequat etiam ac montes viverra ligula id aptent. Viverra risus non litora viverra conubia tempus et mauris sollicitudin eni massa mauris.",
+    "Rhoncus massa eu tempor quisque euismod nunc eros parturient penatibus. Dapibus massa vestibulum mi pellentesque commodo luctus aptent felis. Lacinia morbi ad facilisis ut lacus et nisi blandit viverra platea penatibus. Laoreet lacus. Quisque donec nisl ipsum erat turpis arcu lacinia at nam. Commodo netus. Laoreet donec netus a duis eu pede magna semper hymenaeos id. Integer felis ve turpis purus lorem sit. Aliquet netus sed tellus. Pretium fusce at. Euismod velit nunc dapibus eu id sociis cubilia ad nonummy quam curae. Dapibus augue enim. Viverra proin. Aliquet curae nibh integer porta ve porta. Dapibus felis. Euismod fames orci ac eget mauris leo. Laoreet fusce orci urna morbi urna nam. Pretium proin erat egestas eros ve nec ante sollicitudin ut velit ac sollicitudin libero ve. Conubia class cum nisi diam aptent lectus lorem gravida nostra orci amet. Natoque vitae. Egestas donec proin. Feugiat vitae ut nibh amet penatibus nunc curabitur ad phasellus risus ve ligula dis euismod proin.",
+    "Blandit nulla mus vehicula. Nonummy class parturient eu elementum id elit ad pellentesque. Lacinia magna enim purus tincidunt. Commodo risus aliquam. Cubilia dolor nibh curabitur. Blandit fames nec fames duis ac erat nunc. Laoreet justo in arcu etiam ut diam facilisi sagittis. Potenti proin ad phasellus blandit sollicitudin sapien netus eu. Laoreet metus adipiscing elit tempor ad ligula. Conubia nulla. Feugiat morbi et hac nibh consectetuer volutpat fames in. Posuere proin adipiscing id. Cubilia justo nunc netus venenatis hendrerit sollicitudin vel justo vestibulum lobortis amet aliquet. Feugiat risus. Viverra dolor hac congue donec non ipsum. Integer felis arcu magnis risus massa eni rhoncus congue. Sodales augue vestibulum ultrices dapibus iaculis neque. Nonummy metus ac metus ad dignissim purus tristique. Potenti magna eget quisque id. Egestas metus non. Conubia risus pede massa ultricies lobortis eu. Aliquet curae ac dignissim a non porttitor vel urna aptent."
+   ],
+   "children": [
+    {
+     "title": "Iaculis dolor.",
+     "paragraphs": [
+      "Feugiat massa parturient. Natoque augue leo mauris congue neque. Integer augue diam. Nonummy netus cum duis. Commodo donec eros placerat vestibulum tellus facilisi condimentum dui quam sem ut amet. Commodo class nibh duis lobortis. Pretium class ve cras proin morbi lectus cras. Iaculis risus. Rhoncus felis ve curae ullamcorper accumsan tincidunt a tristique magna nonummy. Viverra lacus vitae sociis ad inceptos. Feugiat lorem feugiat primis metus morbi proin feugiat aptent arcu at fringilla scelerisque dui pede. Gravida lacus at a nibh donec. Feugiat metus. Lacinia etiam. Euismod morbi duis. Quisque massa justo ultrices ad magna mauris. Iaculis massa ac id porttitor ipsum massa pede interdum vehicula curae tincidunt. Aliquam justo eros ullamcorper consectetuer natoque nisi risus. Euismod risus ut neque scelerisque ut aptent. Vivamus donec cum amet vestibulum per morbi enim a quam. Laoreet risus. Integer dolor.",
+      "Integer ipsum odio nisl enim posuere at augue. Iaculis porta eros ve interdum lacinia. Lacinia etiam id orci pharetra tellus adipiscing molestie. Pretium nulla. Quisque netus. Euismod fames per congue sagittis fusce et diam porta fames scelerisque eleifend. Laoreet purus ipsum accumsan purus in ligula dis litora mi suscipit auctor aenean phasellus. Potenti donec. Laoreet fusce ante elementum tempus dignissim mauris nisi. Iaculis lorem eget vivamus augue id purus dolor platea. Iaculis magna sodales ornare mauris fringilla penatibus vestibulum leo parturient curabitur risus a posuere ligula urna. Lacinia massa felis hac dictum. Natoque lacus vel tempus ve sed suspendisse rhoncus felis ut ornare id dictumst hac sollicitudin. Commodo etiam ut risus felis conubia nonummy amet nisi. Quisque fusce dui nibh non purus. Cubilia curae eu primis a adipiscing dis. Aliquet metus ac taciti hac enim lectus elit nonummy habitasse in varius consectetuer nec morbi enim. Natoque netus in luctus id. Conubia etiam cras sit. Blandit purus. Iaculis vitae eu massa sollicitudin risus eget faucibus eni et a rutrum erat congue. Dapibus metus magna nonummy."
+     ]
+    },
+    {
+     "title": "Euismod magna in netus id.",
+     "paragraphs": [
+      "Commodo netus. Viverra morbi neque congue amet fringilla at. Pretium donec urna eu facilisis risus mi tempus dignissim ac mauris ac congue ut semper pellentesque. Integer fames eni. Euismod purus donec. Pretium proin arcu tristique dui posuere ve elit ridiculus in hendrerit velit. Commodo augue. Aliquet lacus et tortor nonummy euismod rhoncus pede a eros dolor dignissim sed. Conubia class netus platea eni parturient. Feugiat vitae sit platea montes ante lacinia nulla ipsum. Nonummy morbi sem amet inceptos sit. Iaculis nulla dolor proin bibendum eros platea. Nonummy felis nam cras est a sapien. Vivamus lacus enim curabitur. Vivamus morbi. Blandit class dui vestibulum. Egestas proin odio ve neque lectus placerat. Vivamus netus eu curabitur ipsum montes nulla vestibulum suscipit augue. Aliquam ipsum parturient laoreet cum ad platea erat. Rhoncus porta risus condimentum pulvinar justo metus sit nunc. Conubia nulla quam mus gravida nisl nam. Blandit felis eget lectus iaculis nonummy tempor.",
+      "Egestas class metus congue ad eu mi congue natoque at. Aliquet donec id vitae sollicitudin phasellus proin mi ipsum volutpat fusce quisque duis odio dapibus dignissim habitant. Cubilia justo dolor amet mollis etiam facilisis semper dolor praesent adipiscing turpis torquent suspendisse pharetra. Iaculis vitae nulla elit suspendisse. Conubia dolor. Pretium vitae porta magnis inceptos vestibulum sociis eni diam hac velit. Viverra proin dui semper ve in nullam sit arcu mus enim hac risus morbi donec elit malesuada placerat ad cursus. Iaculis metus magna fames dictumst nibh. Lacinia neque sem dolor nibh quisque et accumsan libero. Aliquet velit. Sodales lacus quis. Integer netus eget justo phasellus nunc eni tellus. Cubilia porta dui odio non pulvinar potenti ante praesent ornare purus per hac. Euismod fusce ac sapien. Gravida netus vitae lectus auctor massa. Commodo lorem mi donec dui ante curabitur. Cubilia donec mi vulputate elit ligula. Natoque netus gravida diam sollicitudin vestibulum eros. Potenti donec enim natoque ad ve sit eget pellentesque natoque. Blandit curae vestibulum suspendisse. Conubia purus ac neque. Vivamus class per facilisi purus blandit mollis nec."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Blandit lorem augue quisque pulvinar.",
+   "paragraphs": [
+    "Lacinia justo risus aptent luctus conubia integer odio nulla cubilia urna. Conubia proin class massa condimentum ac taciti class. Integer fusce elit ad risus ut libero magna pretium rhoncus sagittis pretium. Quisque curae ut primis. Iaculis augue nunc non aliquet porta id dolor. Aliquet justo nulla. Commodo risus. Natoque class odio posuere est mi tellus turpis non pretium. Laoreet proin parturient pharetra quam non velit dui nunc pellentesque natoque inceptos aptent. Rhoncus class orci imperdiet lectus eget suspendisse blandit. Posuere proin. Blandit risus eu porttitor parturient erat. Viverra vitae cum cubilia at feugiat mi arcu lacus purus hac nascetur sollicitudin iaculis hymenaeos. Dapibus massa cum orci montes sociis faucibus hendrerit. Quisque donec nisl a lorem blandit nullam. Euismod fames parturient orci lorem risus nascetur morbi pellentesque consequat tempus imperdiet neque. Dapibus fames orci nec sollicitudin taciti ac maecenas. Aliquet morbi. Vivamus justo diam ultrices cras platea vestibulum lacus quisque nunc. Sodales metus dui taciti eleifend ut purus ut litora a parturient sem justo sit. Iaculis etiam urna. Vivamus etiam.",
+    "Feugiat velit elit tempor parturient consectetuer rhoncus sociosqu nullam libero sociosqu vestibulum. Aliquam lacus quis quisque a taciti duis ac leo luctus odio nisi magna hymenaeos parturient. Rhoncus metus purus turpis maecenas lorem integer. Aliquam morbi mi ipsum non quis ac pellentesque. Integer porta amet quam proin et dictum rhoncus orci. Integer morbi adipiscing sociosqu odio dictum convallis molestie sociis pede suspendisse non. Dapibus fames ut interdum. Quisque lacus diam quis fusce dapibus erat duis vestibulum tortor. Posuere felis massa nascetur class fringilla interdum id. Lacinia lacus mus eros praesent. Aliquet velit. Vivamus etiam viverra ut natoque ante eu consectetuer cubilia nulla. Cubilia dolor in consectetuer congue eu nisi sapien et vehicula nonummy risus. Gravida proin urna euismod donec dis tristique nec. Lacinia magna vel nunc phasellus at amet nisl porta. Lacinia purus adipiscing mi sollicitudin nonummy ligula. Integer purus et augue purus est tempor. Egestas dolor erat accumsan consectetuer lectus proin ullamcorper. Nonummy etiam at vitae vehicula augue sollicitudin vitae id tellus feugiat elit ad metus pellentesque eleifend neque elit purus. Viverra lorem urna eleifend ultrices pellentesque. Dapibus purus odio vehicula. Rhoncus nulla."
+   ],
+   "children": [
+    {
+     "title": "Blandit felis eget nibh at maecenas.",
+     "paragraphs": [
+      "Dapibus class. Commodo justo duis eu orci ipsum eros mus cras urna vitae varius sapien. Integer class cum vestibulum mi consequat a non vulputate. Viverra nulla eu malesuada suspendisse penatibus enim scelerisque non. Posuere velit leo dui convallis conubia. Gravida risus morbi mattis. Quisque curae. Viverra fames. Dapibus donec proin libero ac erat nibh parturient vulputate. Rhoncus felis quam ullamcorper mus diam. Quisque purus nibh aliquam consequat accumsan dolor et ut purus semper. Feugiat augue parturient ullamcorper montes eu suscipit arcu dictumst. Aliquam netus. Laoreet lacus fusce facilisi sem laoreet ante a nunc ipsum dui per nam sollicitudin lacus eu. Natoque fames lorem pede leo litora odio rhoncus a mattis fermentum. Integer neque. Integer porta per fermentum aenean. Natoque vitae. Sodales neque. Viverra lorem diam dignissim sollicitudin mus elementum eget metus felis egestas sodales sociis dis posuere. Lacinia etiam. Iaculis risus duis tortor.",
+      "Iaculis donec augue potenti facilisi ante. Aliquet morbi eu cursus etiam adipiscing. Euismod donec lacus quam sagittis malesuada diam. Aliquet velit ad eget faucibus at ullamcorper eget tristique volutpat cursus. Feugiat augue parturient iaculis cras habitasse dis felis enim justo mi eu est aptent vel. Euismod lorem. Feugiat vitae vel arcu pede. Euismod justo in phasellus curae et tristique ve erat. Dapibus donec ut pellentesque sollicitudin. Iaculis lacus eni diam habitasse auctor quam pellentesque interdum. Iaculis neque. Blandit risus. Sodales morbi arcu egestas. Rhoncus augue netus nam curabitur. Nonummy fames curae non duis pulvinar dis consectetuer ipsum class. Blandit fusce. Gravida class dolor magna ante purus proin. Euismod lorem. Vivamus neque velit nam ante nisl fames cubilia posuere elementum diam montes parturient. Vivamus velit. Euismod class. Lacinia risus urna a."
+     ]
+    },
+    {
+     "title": "Aliquet massa adipiscing.",
+     "paragraphs": [
+      "Potenti class ve. Rhoncus class nisi suspendisse sollicitudin laoreet. Laoreet lacus conubia nunc egestas mi duis nonummy malesuada. Vivamus netus. Gravida risus. Blandit vitae. Feugiat class nulla. Pretium magna lorem mattis penatibus ad magna tortor. Egestas lorem magna velit curae eros odio quam diam purus pulvinar fusce lacinia malesuada torquent. Euismod netus morbi nisl a. Viverra dolor nec. Blandit justo quis tincidunt libero faucibus. Nonummy augue. Sodales fusce sit vestibulum venenatis duis sit. Aliquam vitae in mattis consectetuer. Aliquet dolor risus tempor nulla parturient potenti amet dis cras nec laoreet. Blandit netus id massa at. Potenti magna id enim. Gravida class in urna id tristique habitasse pellentesque vel lacus. Sodales metus ante a quis magna metus tellus metus mi nullam pellentesque nec fames. Rhoncus class orci hendrerit sem. Cubilia class nisi nibh felis aliquam cras a duis ad nisl.",
+      "Feugiat metus ipsum ullamcorper dictumst laoreet feugiat penatibus non dui eu convallis a. Sodales lorem ac aptent lobortis feugiat et justo hendrerit non. Aliquet neque orci proin. Dapibus neque. Iaculis metus sit nunc pellentesque vestibulum erat. Iaculis morbi duis. Sodales nulla aliquam odio eros interdum nam potenti sociis ac class. Viverra vitae ad ipsum. Egestas dolor odio eu proin hac dictum vel cubilia augue class. Nonummy proin diam. Aliquam augue. Viverra augue magna tempus malesuada nulla arcu euismod et quam hymenaeos. Iaculis felis justo. Posuere curae ac massa. Rhoncus magna. Cubilia morbi quis a enim id hymenaeos dignissim orci tellus ve. Conubia morbi ve a lectus. Aliquet proin. Commodo nulla hac pede ridiculus sociosqu mauris pede. Vivamus felis amet condimentum euismod suspendisse eget enim aliquam. Cubilia risus. Conubia justo.",
+      "Integer class metus primis vulputate sodales eros fermentum. Blandit vitae urna purus etiam lectus eu metus eu augue ut dolor. Commodo fames quis ve risus nullam mollis suscipit adipiscing. Aliquam morbi urna metus vulputate in. Iaculis curae nunc sed quisque lacus nunc dapibus nisl ac. Potenti augue amet pharetra tellus mollis etiam. Egestas porta. Rhoncus risus in congue. Sodales dolor nam per pellentesque. Egestas vitae ac ridiculus risus a nisl felis ullamcorper bibendum imperdiet maecenas primis nibh nam vitae sem cras. Quisque vitae. Vivamus etiam cum. Sodales purus pede justo platea ultrices urna luctus. Natoque magna dolor netus tincidunt nascetur. Feugiat justo pede porta semper adipiscing sollicitudin. Integer felis. Quisque fames pede hac eleifend aliquet risus quisque est id interdum egestas. Posuere porta duis lacinia eni lobortis viverra torquent odio hac fusce fringilla. Natoque curae per arcu per risus elementum pharetra. Natoque donec in velit lectus ullamcorper donec elementum. Conubia magna etiam libero convallis. Conubia lorem."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Rhoncus curae vestibulum suspendisse aenean ut libero eu cum.",
+   "paragraphs": [
+    "Commodo proin felis amet habitasse sem quisque. Cubilia ipsum. Viverra vitae. Gravida ipsum pretium mus. Conubia massa nonummy nec eleifend pellentesque. Conubia vitae orci ultrices a. Aliquet neque nulla dapibus potenti ridiculus ligula eleifend. Potenti felis cum inceptos facilisis orci eros proin ridiculus. Dapibus etiam ac pellentesque rhoncus lobortis natoque lectus ut dui. Posuere etiam. Natoque felis et sit et a quam felis. Nonummy dolor elit aliquam in mattis pellentesque. Cubilia fusce duis rutrum porta in phasellus. Commodo neque dui orci amet dui dictum. Sodales risus eros purus nonummy. Nonummy curae nulla montes class vestibulum suspendisse ornare ut arcu sagittis hac id netus class ipsum. Nonummy class ante blandit ut cursus et pede ve magnis massa fusce. Dapibus metus netus convallis adipiscing vel. Sodales dolor arcu neque. Dapibus lacus ante tempus platea maecenas. Potenti morbi ac sem elit nullam in vehicula nunc per. Egestas augue vel nibh porttitor luctus.",
+    "Natoque fusce mi a odio in sollicitudin litora varius habitant fermentum. Commodo morbi ad a eget ve sollicitudin nullam ornare consequat bibendum ad. Laoreet risus eget mi dis tempus. Aliquet dolor nisl pulvinar ullamcorper suscipit. Gravida purus erat hac blandit id tincidunt natoque rutrum dis ve congue elementum gravida. Integer etiam. Aliquet neque duis. Natoque etiam. Quisque vitae. Euismod velit nisl mattis aenean class. Aliquam lorem velit sociis eu. Integer ipsum. Integer fames purus urna sit. Aliquet nulla ut magna malesuada consequat adipiscing. Vivamus morbi viverra dignissim nunc gravida ac taciti eleifend duis ac quis. Posuere netus eros vel sociis. Rhoncus felis ante mollis tincidunt fames ac aptent congue sem. Nonummy fames hac ante posuere amet consectetuer eu. Cubilia magna odio euismod nibh vitae facilisis sociosqu cras sem netus purus. Natoque justo ad dolor semper. Pretium neque hac tellus primis suscipit lorem class. Quisque augue."
+   ],
+   "children": [
+    {
+     "title": "Aliquet felis ante aenean eu mus.",
+     "paragraphs": [
+      "Rhoncus class. Posuere morbi. Pretium magna. Nonummy netus ante at proin rutrum aenean proin senectus. Cubilia curae aliquam cras sollicitudin adipiscing enim morbi cubilia. Natoque magna erat interdum hac ornare mi. Lacinia velit purus magnis adipiscing. Iaculis purus nulla rutrum interdum nulla ut litora. Aliquet curae. Pretium vitae leo pede parturient diam. Natoque risus diam phasellus pellentesque parturient duis hendrerit litora. Blandit dolor in accumsan. Vivamus morbi nisi. Dapibus massa nisi metus mi at. Posuere curae eu dignissim parturient blandit amet eros. Gravida curae dolor pharetra hac mi eget. Integer ipsum at. Viverra class mi dolor nec amet. Nonummy fames curae aenean augue hac vestibulum consequat suspendisse fames auctor vel arcu sed. Cubilia ipsum ve varius pulvinar est natoque aenean ut mus et pellentesque. Pretium proin justo leo lectus dictumst. Laoreet augue ac cursus a suscipit hac conubia.",
+      "Potenti fusce. Quisque proin nulla nunc. Feugiat lacus. Viverra morbi. Natoque lacus leo diam vel sem mus sem pellentesque fusce id. Blandit lacus. Rhoncus proin augue neque vel eget enim feugiat. Commodo dolor leo enim in arcu dictumst vehicula augue. Laoreet class. Nonummy fames ad curae morbi sed ipsum malesuada scelerisque curae. Iaculis etiam ac aenean a faucibus mus rhoncus urna. Commodo metus parturient elit sapien mus ad quis eros elit quam purus ipsum. Integer velit. Aliquet lorem parturient ve dictumst tempor turpis. Aliquet lacus augue amet facilisi consectetuer. Blandit risus nec fermentum molestie. Dapibus lorem ac eros consequat nascetur nulla ad morbi magnis. Aliquam dolor risus. Conubia vitae hac. Conubia class. Egestas etiam amet a nibh. Quisque proin augue condimentum eleifend integer."
+     ]
+    },
+    {
+     "title": "Aliquam proin lorem pretium fringilla leo consectetuer.",
+     "paragraphs": [
+      "Laoreet metus eget in etiam mollis vulputate lobortis magna id. Euismod augue est elementum. Nonummy massa sit amet dis duis. Natoque metus etiam sed vestibulum parturient ve fringilla. Gravida curae dui pede diam. Iaculis etiam ac cursus hac nibh ligula ultricies nulla aliquam. Blandit porta sem felis fermentum sit elit id nulla. Vivamus metus justo vitae cras litora sed turpis odio quis vel dapibus duis arcu. Natoque velit ipsum tempor tortor. Cubilia justo at luctus habitasse felis vivamus nam in. Commodo fusce duis volutpat magna nulla aenean at et dignissim mi hymenaeos hendrerit. Quisque lacus sem enim luctus aliquet egestas penatibus. Laoreet fusce pede etiam lorem a aliquet. Iaculis purus in justo accumsan dis potenti ut magnis. Euismod lacus per laoreet hac bibendum posuere ad elementum. Aliquet massa metus lacus ornare nunc morbi penatibus eleifend lectus. Feugiat netus. Blandit class hac. Euismod curae mi vehicula natoque viverra ante at consectetuer sollicitudin laoreet rutrum. Lacinia vitae ad sollicitudin commodo torquent sollicitudin pretium mauris ante. Quisque curae felis curae torquent. Posuere massa nulla nostra scelerisque vitae vulputate.",
+      "Conubia donec nisi commodo at interdum habitant donec. Quisque fames erat volutpat lobortis. Natoque lacus. Potenti fames mi. Laoreet felis. Rhoncus morbi. Feugiat curae nunc aenean dis nostra conubia nunc class bibendum. Feugiat fusce enim dignissim montes at. Blandit augue eni quam eu enim massa hymenaeos. Iaculis fames id dictum viverra. Nonummy porta eros a proin et. Lacinia ipsum. Conubia nulla. Gravida morbi amet congue tortor massa luctus fermentum. Viverra lacus felis nec felis elit. Quisque metus quis eni. Egestas velit nisi quis. Rhoncus vitae ut semper habitant. Aliquet augue. Potenti metus eros a pede fusce vivamus. Blandit metus donec erat consequat dictum. Conubia donec."
+     ]
+    },
+    {
+     "title": "Nonummy augue metus.",
+     "paragraphs": [
+      "Commodo lacus nisi pretium litora hymenaeos sociosqu. Quisque neque integer imperdiet sit. Vivamus felis netus risus aptent fames cum odio in. Dapibus purus et eu duis. Viverra ipsum. Pretium augue erat sociosqu ac dolor cursus odio ve aenean at. Aliquet lacus leo amet nascetur morbi feugiat magna. Commodo morbi lorem semper mus rhoncus sociosqu proin ve tortor mi nibh. Laoreet porta. Gravida massa leo mollis ve. Viverra magna ve massa at pellentesque laoreet lacus in pellentesque rutrum purus. Natoque proin fames dis eros massa quisque cubilia. Sodales netus sit tellus montes morbi parturient diam class magnis. Posuere justo et nullam a sagittis hac eu erat semper eu. Euismod class dis porta enim dapibus a ullamcorper. Nonummy justo mi platea. Laoreet metus in rutrum id sagittis rhoncus ultricies elit massa at massa. Posuere metus diam. Blandit augue. Cubilia fames et habitasse rhoncus pellentesque hendrerit dolor. Blandit fusce urna congue id aliquam orci ante. Aliquam lorem etiam neque eleifend nam orci.",
+      "Feugiat class. Euismod porta justo nisl mus nisl sociosqu adipiscing tortor. Lacinia morbi parturient bibendum porta eu. Aliquam augue conubia vulputate sem eget. Gravida class potenti. Pretium etiam est fames cras sit amet a elit id sapien et nam in hendrerit. Gravida etiam curae tellus integer hendrerit praesent sociis tempor diam scelerisque viverra neque quis dignissim habitasse orci odio. Dapibus ipsum. Blandit netus nisi augue lacinia ac nibh molestie vel. Integer netus dapibus commodo. Nonummy neque ante. Iaculis porta neque lorem lectus integer aliquet feugiat platea. Cubilia netus nibh a eget. Iaculis donec et non ante dis. Gravida morbi felis primis eros id nunc. Viverra fames nisi dolor risus viverra. Conubia class eget conubia viverra convallis. Viverra ipsum nisi magnis eu nec ut. Quisque lorem quam facilisi hymenaeos et netus. Feugiat class gravida morbi leo nisi urna. Quisque donec eros. Gravida fusce."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Rhoncus fusce eu.",
+   "paragraphs": [
+    "Aliquam lacus orci fringilla hendrerit nibh mattis in. Aliquet class adipiscing volutpat morbi. Gravida massa nunc fusce quam at netus purus luctus penatibus sociosqu libero nisl cras. Cubilia nulla. Integer velit dui amet. Posuere metus curae penatibus pede commodo cras mattis diam. Egestas felis odio lectus ac duis. Feugiat metus ad nulla. Aliquet fames nibh pede eleifend volutpat. Dapibus nulla non risus tincidunt. Dapibus donec. Iaculis class eget eu pellentesque iaculis morbi. Dapibus risus. Viverra class. Blandit neque purus sociis fusce nec enim dignissim odio hac. Rhoncus porta purus ipsum tempor penatibus. Pretium magna netus cursus at eleifend natoque. Commodo fames nec nullam a bibendum cum nisi adipiscing cursus purus vestibulum. Quisque fames. Egestas lorem eget nibh commodo a ullamcorper. Quisque donec massa cras dis rutrum. Commodo lorem ut lacus cum.",
+    "Aliquam nulla duis vitae lorem urna bibendum fames ve nulla. Posuere fames duis metus elementum sodales erat duis ridiculus montes et. Natoque morbi id nisl nulla faucibus velit pretium dui dictum commodo laoreet quam parturient ac fermentum suspendisse. Euismod ipsum sit hendrerit vel potenti purus rhoncus metus ve tempor. Euismod fusce laoreet fringilla placerat ve. Natoque metus et. Quisque vitae. Vivamus class. Lacinia purus proin feugiat eget. Egestas nulla orci iaculis id varius. Integer porta sit vel ve nisl dolor magnis ornare. Dapibus morbi id libero sociosqu vitae ve ornare venenatis sodales urna. Aliquam velit ve magna porttitor integer est mi a libero felis fames senectus tristique porta in hendrerit euismod. Aliquet class. Viverra risus nec enim pellentesque euismod suscipit ve. Posuere vitae amet posuere eget ve odio netus in purus velit cursus. Natoque morbi. Aliquet dolor etiam blandit natoque cursus mi nulla nullam mi pede netus fringilla orci. Conubia curae eget. Commodo magna eu hendrerit ante elit potenti eros nunc sociis et volutpat. Gravida magna. Feugiat velit morbi eget maecenas metus.",
+    "Lacinia augue massa felis class mattis. Feugiat nulla. Egestas augue sit purus metus netus. Quisque class vestibulum viverra sed senectus class metus vitae turpis nullam. Lacinia velit metus urna vehicula a sollicitudin. Blandit vitae ac rutrum faucibus vestibulum. Feugiat magna. Integer morbi orci leo tempus. Euismod netus vitae cum duis donec eleifend facilisis id fermentum fames vel. Nonummy magna cras quis enim non dui ad aenean. Aliquam dolor. Gravida donec ve donec at orci. Natoque magna eros iaculis pede ut. Aliquet class adipiscing quam litora praesent dignissim a risus viverra cursus nisi scelerisque feugiat non senectus consectetuer. Posuere nulla arcu condimentum aliquet condimentum nisi fermentum. Potenti donec erat praesent porttitor tempus arcu ultricies eros. Commodo purus. Conubia velit eget porttitor lacus in massa. Nonummy metus odio natoque fames cum eget. Posuere massa risus ullamcorper est tellus. Rhoncus lorem dui arcu orci cubilia eu platea. Conubia netus ac."
+   ],
+   "children": [
+    {
+     "title": "Conubia justo erat purus.",
+     "paragraphs": [
+      "Integer massa nibh non sapien a gravida ligula cum congue. Potenti donec quis pulvinar et ullamcorper enim dictum dapibus commodo platea semper purus iaculis. Vivamus proin vestibulum eros etiam pede porta scelerisque eros tincidunt. Egestas risus parturient potenti pede duis fames orci ultrices quam penatibus id mi. Feugiat fusce. Lacinia ipsum amet vehicula morbi sollicitudin fusce odio tellus ut tellus maecenas natoque. Aliquam curae ut metus mauris. Laoreet netus ut facilisis a. Iaculis lacus eu morbi vulputate vestibulum aliquet arcu id ultrices tempor aptent quis duis lacinia. Pretium lacus pede eni sem. Lacinia netus odio est rhoncus cum congue a posuere ut convallis fusce at. Conubia massa odio nunc hendrerit ultricies ipsum lacus diam posuere lacus. Commodo velit adipiscing rhoncus nisl. Feugiat netus. Laoreet porta nibh proin natoque nisi duis gravida vivamus commodo consectetuer. Laoreet augue aliquet purus ut donec pellentesque hendrerit netus id consectetuer sollicitudin commodo ligula. Gravida justo proin interdum pede senectus porttitor nisi. Conubia dolor dui ultricies aenean per laoreet id luctus. Posuere justo arcu. Natoque fames. Posuere etiam diam aliquam ut tellus taciti mus id fusce habitasse commodo arcu. Feugiat netus proin aliquet vel suscipit a.",
+      "Vivamus neque elit ullamcorper per mi tellus dictumst adipiscing habitasse justo. Integer fusce. Lacinia lorem quam varius. Vivamus massa donec dolor libero ipsum penatibus. Quisque magna porta. Euismod nulla quam montes sit iaculis diam mi massa erat potenti mattis sapien torquent. Integer netus ve nunc nullam habitasse. Blandit augue quam quisque sapien. Nonummy nulla etiam suspendisse ut litora donec at ac duis. Nonummy fusce vestibulum ad pellentesque viverra montes aptent. Laoreet ipsum vel nam aliquet risus velit vitae. Viverra class. Natoque fusce mus blandit. Conubia lacus. Potenti porta urna id proin in. Vivamus morbi nonummy vel ultricies posuere vitae odio placerat aptent pede. Posuere curae elit non cras a nisi parturient. Viverra risus. Sodales massa et donec eu consectetuer sodales dolor ac litora. Integer proin ac. Blandit nulla. Iaculis neque quam lorem cubilia nec pharetra dapibus arcu ve donec."
+     ]
+    },
+    {
+     "title": "Aliquet proin.",
+     "paragraphs": [
+      "Potenti porta ac dictum curabitur. Cubilia etiam metus nostra nisl libero ac volutpat neque urna. Feugiat dolor erat malesuada ornare eu. Nonummy massa. Vivamus metus erat eu eros cursus vestibulum lobortis porta nibh neque aenean. Natoque fames. Conubia lacus. Lacinia donec id ipsum sollicitudin facilisi proin nulla eni morbi est nonummy. Laoreet vitae pede hac fusce eget fermentum. Dapibus fusce. Natoque metus pede blandit ad nisi magnis fringilla viverra quis. Integer neque. Pretium etiam arcu habitasse et suspendisse eget enim non cubilia bibendum. Egestas massa per dolor odio orci. Rhoncus curae eni porta integer hac tellus. Euismod proin elit pede iaculis ipsum rhoncus tellus. Natoque augue. Vivamus vitae. Egestas proin nonummy integer imperdiet non sollicitudin. Laoreet netus nulla dui proin taciti ve neque condimentum sit urna platea ve suscipit. Feugiat fames diam pretium eu nisi ad nec venenatis turpis. Iaculis lacus et aptent facilisi laoreet massa orci a arcu parturient.",
+      "Gravida class ac purus sapien hendrerit. Pretium proin per metus phasellus potenti pede dis pharetra sodales. Rhoncus augue eu magna dui urna proin egestas et. Dapibus neque netus congue montes eleifend amet ut donec cursus. Blandit ipsum ad. Iaculis lacus porta risus a dictum duis diam venenatis sollicitudin. Pretium morbi felis maecenas etiam faucibus at arcu netus. Rhoncus morbi. Rhoncus velit at neque ad sollicitudin lacinia morbi neque phasellus dis vitae adipiscing placerat diam. Rhoncus curae augue cursus vitae ante nec amet eleifend hymenaeos platea mi rutrum. Laoreet massa id magnis pellentesque hymenaeos montes lobortis. Pretium curae lacus a duis parturient nibh lacus. Dapibus lacus. Pretium magna diam ipsum litora ipsum vestibulum faucibus laoreet nostra. Blandit fames. Posuere augue arcu taciti iaculis nonummy nisi molestie morbi pellentesque lorem diam hac odio. Viverra purus ipsum. Sodales massa eu felis congue at porta consectetuer habitasse. Dapibus fusce. Natoque metus sit dictumst ridiculus nulla eu odio magnis porttitor cubilia elit curae dignissim nisi. Blandit porta nisi a nunc vestibulum est netus tristique porta. Quisque dolor hac dolor mus litora dictumst odio non massa fringilla.",
+      "Commodo morbi nisl velit felis risus ornare donec aliquet. Feugiat lorem egestas ornare semper elit quam. Laoreet lacus nulla ultrices. Quisque magna velit euismod donec. Viverra class lacus nam interdum ridiculus ve tristique nisl mattis ad accumsan hac. Posuere morbi at dui tristique ligula eu. Vivamus donec nibh morbi volutpat dolor. Potenti ipsum ve justo. Cubilia augue orci turpis vestibulum sollicitudin nonummy magna in. Quisque class per enim mauris curabitur ut tincidunt proin inceptos adipiscing dignissim. Dapibus class massa. Iaculis netus ve primis enim sapien. Aliquet porta. Quisque morbi blandit nec in nisl. Viverra porta. Aliquet justo velit quis ullamcorper. Commodo lorem sed duis parturient mus porta dignissim duis eget. Quisque nulla quam lacinia amet ultrices facilisis sem. Blandit nulla erat vulputate. Laoreet vitae mi at orci porta libero primis est vivamus nam ve vulputate netus. Viverra etiam nunc posuere. Rhoncus porta est ornare euismod ac eros."
+     ]
+    }
+   ]
+  }
+ ],
+ "title": "Potenti ipsum posuere metus eu semper id habitant bibendum donec in morbi."
+}
